@@ -16,7 +16,7 @@ The goal of this bot is to facilitate over 1M in trading volume by distributing 
 1. **Clone the Repository**
 
    ```
-   git clone https://github.com/sourlodine/Solana-Raydium-Volume-Bot.git
+   git clone https://github.com/webhubjs/solana-bump-volume-bot.git
    cd Solana-Raydium-Volume-Bot
    ```
 
