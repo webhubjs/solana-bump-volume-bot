@@ -53,6 +53,6 @@ The goal of this bot is to facilitate over 1M in trading volume by distributing 
 
 ## Contact Information
 
-For inquiries, contact me via [Telegram](https://t.me/tarpan_tg) or Discord at @tarpan_web3.
+For inquiries, contact me via [Telegram](https://t.me/chris_lev11).
 
 Feel free to reach out for assistance with other bots such as the aydium and Pumpfun sniper, Raydium bundler, Pumpfun bundler Shit-token Launcher, Token-freezer, Market maker bot, and more. I also offer both console-based and Telegram-integrated bot versions.
